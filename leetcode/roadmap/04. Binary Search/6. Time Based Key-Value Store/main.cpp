@@ -3,7 +3,7 @@ using namespace std;
 
 class TimeMap {
 private:	
-unordered_map< string, vector<pair<string, int>> > map;
+	unordered_map< string, vector<pair<string, int>> > map;
 
 public:
     TimeMap() {
